@@ -2,7 +2,7 @@
 - 🌱 I’m looking to collaborate on any software-based projects that are either sustainability in/by software.
 - 👀 I’m currently learning Kotlin/Wasm as my programming expertise but I have experience working on Android/Kotlin-Wasm/Flutter projects.
 - 💞️ I’m interested in hiking, traveling, and creating anything aesthetically pleasing be it mobile apps or Instagram profiles.
-- 📫 How to reach me: mail me at Ichchha.Moktan@student.lut.fi
+- 📫 How to reach me: mail me at Ichchha.Moktan@student.lut.fi or i.moktan@student.vu.nl
 
 <!---
 Ichchhie/Ichchhie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
