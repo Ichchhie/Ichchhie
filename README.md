@@ -1,9 +1,20 @@
-👋 Hi, I’m Ichchha, an Erasmus Mundus Joint Masters SE4GD(Software Engineering for Green Deal) student graduating this summer 2025.
-- 🌱 I’m looking for graduate roles in software engineering (preferred mobile-based) but also willing to explore new stack as well.
-- 👀 I’m currently learning Kotlin to build Android-based projects but I have done projects using Python, Android/Java, and Kotlin Multiplatform.
-- 💞️ I love nature walks, yoga, traveling, and clicking an immense amount of pictures.
-- 📫 How to reach me: mail me at ichchhamoktan07@gmail.com
-<!---
-Ichchhie/Ichchhie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi there! I'm Ichchha Moktan  
+
+I'm an **Erasmus Mundus Joint Master's** student in **Software Engineering for Green Deal (SE4GD)**, graduating in **summer 2025**. Passionate about technology that drives impact, I'm currently exploring opportunities in **software engineering**, with a keen interest in **mobile-based development**—but always open to new tech stacks!  
+
+### 🚀 What I'm Up To  
+- 🌱 **Looking for** graduate roles in software engineering (preferably mobile-based) but open to new challenges.  
+- 📱 **Currently learning** Kotlin to build Android-based projects, but I also have experience with **Python, Java (Android), and Kotlin Multiplatform**.  
+- 🎨 **Love designing UI** that makes apps not just functional, but enjoyable and intuitive for users.  
+- 🔍 **Exploring** innovative ways to bridge **sustainability and technology**.  
+
+### 📌 Find My Work  
+Check out my portfolio and projects here:  
+🔗 [LinkedIn](https://www.linkedin.com/in/ichchha-moktan/)  
+
+### ✨ Fun Facts About Me  
+- 💚 Love **nature walks, yoga, traveling**, and capturing **endless** photos.  
+- 🛠 Always curious about **how technology can create meaningful change**.  
+
+### 📫 Get in Touch  
+📩 Drop me a message on **[LinkedIn](https://www.linkedin.com/in/ichchha-moktan/)** or reach out via **email: ichchhamoktan07@gmail.com**.  
